@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\lagmo\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\lagmo\\.nuget\\packages"
+    ]
+  }
+}
